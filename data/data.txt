@@ -1,0 +1,3 @@
+Put the four-face images here.
+`./data`
+  
